@@ -6,11 +6,14 @@
         <title>Home</title>
     </head>
     <body>
+
         <h1>Olá Spring!!!</h1>
 
-        <a href="jogo/list">
-            Ver lista de jogos
-        </a>
+        <p style="text-align: center; font-size: 19px;">
+            <a href="jogo/list" style="text-decoration: none;">
+                Ver lista de jogos
+            </a>
+        </p>
 
     </body>
 </html>

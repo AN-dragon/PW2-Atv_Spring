@@ -5,13 +5,13 @@
     <head>
         <title>Deletar Jogo</title>
     </head>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
     <body>
         <div class="container">
 
             <h1>Remover Jogo</h1>
 
-            <p style="font-size: 21px;">
+            <p style="font-size: 20px;">
                 Tem certeza que deseja remover o jogo ${jogo.titulo}?
             </p>
 

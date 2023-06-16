@@ -7,7 +7,7 @@
     <head>
         <title>Adicionar Jogo</title>
     </head>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
     <body>
         <div class="container">
 
@@ -18,6 +18,8 @@
                     <label for="titulo">Título:</label>
                     <input type="text" name="titulo" class="form-control" />
                 </div>
+
+                <br />
 
                 <div class="form-group">
                     <label for="anoDeLancamento">Ano de Lançamento:</label>

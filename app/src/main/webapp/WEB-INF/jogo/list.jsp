@@ -6,7 +6,7 @@
 <html lang="pt-br">
     <head>
         <title>Lista de Jogos</title>
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
+        <link rel="stylesheet" href="/css/bootstrap.min.css">
     </head>
     <body>
 
@@ -40,6 +40,20 @@
                 </j:forEach>
             
             </table>
+
+            <br />
+
+            <hr style="font-weight: bolder; color: #003246;">
+
+            <p style="text-align: center;">
+                Lista de Jogos&trade; - 2023
+                
+                <br />
+
+                <a href="/" style="text-decoration: none; color: crimson;">
+                    Voltar
+                </a>
+            </p>
 
         </div>
     </body>
